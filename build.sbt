@@ -1,7 +1,7 @@
 name := "auth"
 organization := "net.jsfwa"
 
-version := "0.4.1"
+version := "0.4.1b"
 
 scalaVersion := "2.12.4"
 
